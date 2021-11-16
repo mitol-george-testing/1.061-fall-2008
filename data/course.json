@@ -1,0 +1,40 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Chemical Engineering",
+      "Transport Processes"
+    ],
+    [
+      "Engineering",
+      "Environmental Engineering",
+      "Aquatic Sciences and Water Quality Control"
+    ],
+    [
+      "Engineering",
+      "Environmental Engineering",
+      "Hydrology and Water Resource Systems"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "d071a376-00d8-63f1-8e59-c391ce1db14c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Transport Processes in the Environment",
+  "course_description": "This class serves as an introduction to mass transport in environmental flows, with emphasis given to river and lake systems. The class will cover the derivation and solutions to the differential form of mass conservation equations. Class topics to be covered will include: molecular and turbulent diffusion, boundary layers, dissolution, bed-water exchange, air-water exchange and particle transport.\n",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "1.61",
+  "primary_course_number": "1.061",
+  "learning_resource_types": [
+    "Course Introduction",
+    "Simulation Videos",
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
